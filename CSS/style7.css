@@ -1,0 +1,35 @@
+body{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    align-items: center; 
+    align-content: center;
+    justify-content: center;
+    position:relative;
+    display:flex;
+    flex-direction: column;
+    background-size: cover;
+     background-position: center;
+     margin:0;
+     padding:0;
+     gap:9px;
+     user-select: none;
+     margin-top:290px;
+  
+
+}
+.Time{
+    background-color:black;
+    align-items: center; 
+    justify-content: center;
+    display:flex;
+    border: 40px solid lightcoral;
+    width:250px;
+    height: 100px;
+    border-radius: 10px;
+    text-shadow: #FC0 1px 1px 10px,#FC0 1px 1px 10px,#FC0 1px 1px 10px,#FC0 1px 1px 10px;
+    color:rgb(201, 211, 236);
+    font-size: 32px;
+
+}
